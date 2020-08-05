@@ -1,0 +1,6 @@
+framework module Pods_desafio_ios_marcelo_bianchiTests {
+  umbrella header "Pods-desafio-ios-marcelo-bianchiTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
